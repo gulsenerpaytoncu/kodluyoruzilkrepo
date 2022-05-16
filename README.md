@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Projeme Saglik](high-five.jpg)
+![Projeme Saglik](high-five.JPG)
